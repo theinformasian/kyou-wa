@@ -1,0 +1,29 @@
+{
+  "name": "kyou-wa",
+  "version": "1.0.0",
+  "description": "Learn how to say the current day in Japanese, and vice versa to English.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theinformasian/kyou-wa.git"
+  },
+  "keywords": [
+    "language"
+  ],
+  "author": "theinformasian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theinformasian/kyou-wa/issues"
+  },
+  "homepage": "https://github.com/theinformasian/kyou-wa#readme"
+}
